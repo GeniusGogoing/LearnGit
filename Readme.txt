@@ -9,3 +9,4 @@ new dev
 fixing bug 1
 stash 1
 第一个用户的修改
+第二个用户在dev分支的修改
